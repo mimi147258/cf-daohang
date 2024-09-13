@@ -1,4 +1,5 @@
 body {
+  background-image: url('https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/girl1.jpg');
   width: -webkit-fill-available;
   height: 100%;
   display: flex;
@@ -15,7 +16,7 @@ header {
 
 #head {
   background-image: url('https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/girl1.jpg');
-    width: -webkit-fill-available;
+  width: 90%;
   height: 100%;          
 }
 
