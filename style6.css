@@ -14,7 +14,7 @@ header {
 }
 
 #head {
-  background-image:url(https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/jp.jpg)(to top, #537895 0%, #09203f 100%);
+  background-image: url(https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/jp.jpg) no-repeat;
 }
 
 #nav .item {
