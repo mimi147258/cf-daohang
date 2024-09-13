@@ -14,23 +14,7 @@ header {
 }
 
 #head {
-  background-image: {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      min-width: 1000px;
-      z-index: -10;
-      zoom: 1;
-      background-color: #fff;
-      background-image: url(https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/jp.jpg) ;
-      background-repeat: no-repeat;
-      background-size: cover;
-      -webkit-background-size: cover;
-      -o-background-size: cover;
-      background-position: center 0;
-    }
+  background-image:https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/jp.jpg(to top, #537895 0%, #09203f 100%);
 }
 
 #nav .item {
