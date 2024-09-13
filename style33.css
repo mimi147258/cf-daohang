@@ -1,11 +1,6 @@
 body {
-  width: -webkit-fill-available;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  -moz-flex-direction: column;
-  -o-flex-direction: column;
+  background-image: url('https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/girl1.jpg');
+  background-size:100% 100%; 
 }
 
 header {
