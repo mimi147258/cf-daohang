@@ -24,7 +24,7 @@ header {
       z-index: -10;
       zoom: 1;
       background-color: #fff;
-      background-image: url(https://github.com/mimi147258/cf-daohang/blob/main/jp.jpg?raw=true) ;
+      background-image: url(https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/jp.jpg) ;
       background-repeat: no-repeat;
       background-size: cover;
       -webkit-background-size: cover;
