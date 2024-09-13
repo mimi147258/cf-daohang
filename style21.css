@@ -15,7 +15,7 @@ header {
 
 #head {
   background-image: url('https://cdn.jsdelivr.net/gh/mimi147258/cf-daohang/girl1.jpg');
-  background-size:contain;        
+  background-size:cover;        
 }
 
 #nav .item {
